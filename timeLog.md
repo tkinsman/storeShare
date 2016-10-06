@@ -12,4 +12,11 @@ Date | Task | Hours | Notes
 9/22 | read resources about JSTL and JSP expression language. Cread database and connected first table with hibernate. | 4 | 
 9/25 | started reading web app security, chapts 7 and 8 | 1.5 | 
 9/26 | finished readings and started adding JSTL to templating system. Added templates for expected pages | 2.5 | 
+9/28 |got web security to work in exercise | 3 | 
+9/30 | researched google api and developing project db | 2 | 
+10/02 | worked on database | 1.5 | 
+10/04 | spent 2 hours finishing database | 2 | 
+10/05 | studied SOAP and doing exercise for week | 2.5 | 
+10/06 |  work on individual project. Created test database for app testing. Practice servlet MVC pattern with page that outputs all db users | 2 | 
+
 

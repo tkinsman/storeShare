@@ -1,5 +1,5 @@
-# storeShare/Shareage
-###(name TBD)
+# StaShit
+![stashitLogo](images/StaShit_med.png)
 Java EE personal project
 
 ---
