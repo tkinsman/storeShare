@@ -18,5 +18,14 @@ Date | Task | Hours | Notes
 10/04 | spent 2 hours finishing database | 2 | 
 10/05 | studied SOAP and doing exercise for week | 2.5 | 
 10/06 |  work on individual project. Created test database for app testing. Practice servlet MVC pattern with page that outputs all db users | 2 | 
+10/09 |read more about docker found demo, worked on individual project  2.5 | 
+10/10 | made presentation and did readings | 2hrs | 
+10/13 | worked on group project, added daos and entities | 2  |
+10/14 | read Rest resources and updated feedback for presentations | 1.5 |
+10/17 | finished activities for week 7 activities | 2 |
+10/19 | started exercises for week 8 | 1.5 |
+10/20 | worked on updating signup for individual project and finished getting a function in dao that required sql join in statement | 2.5 |
+10/23 | started readings | 1 |
+10/24 | worked on updated daos and test for individual project and daos for group project | 5 |
 
 
