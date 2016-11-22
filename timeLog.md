@@ -27,5 +27,22 @@ Date | Task | Hours | Notes
 10/20 | worked on updating signup for individual project and finished getting a function in dao that required sql join in statement | 2.5 |
 10/23 | started readings | 1 |
 10/24 | worked on updated daos and test for individual project and daos for group project | 5 |
+10/25 | worked on daos for group project, added more tests  | 2 |
+10/26 | worked on tag lib exercise and read | 4 |
+10/27 | cleaned up individual project by removing unused files, worked on making better hql statement in individual project, added basic auth  to group proj | 4 |
+10/30 | did threading reading, worked on basic auth, finished | 3 |
+11/01 | started threading exercise | 3 |
+11/02 | worked  threading exercise | 4 |
+11/03 | finished threading ex | 3 |
+11/06 | researched aws app deployment and vms, created a vm | 4  |
+11/07 | created a presentation for extra curricular, did readings | 3 |
+11/08 | created a presentation for extra curricular, did readings | 3 |
+11/13 | installed ruby on droplet and installed Slate doc reference templates, started documentation  | 4 |
+11/14 | made iOS app for group presentation | 2 |
+11/15 | updated group project tests, fixed servlet loading path for app deployment | 2 |
+11/16 | added bindling language examples to reference docs, added properties file to read in, added javadoc comments  | 4 |
+11/17 | updated reference docs for team presentation, added popular vote endpoint | 3 |
+11/18 | updated individual project tests, started readings on EJB | 2 |
+
 
 
